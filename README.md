@@ -1,6 +1,6 @@
 
 
-# t2-s1 Gestión de socios COPAL
+# Spring Security + JWT
 
 ## Variables de entorno
 - **DB_URL**: Dirección y nombre de la base de datos
